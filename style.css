@@ -243,7 +243,7 @@ blockquote footer span{margin:0 5px}
  .concern-card{flex:0 0 72%;height:145px;scroll-snap-align:start}
  .popular{padding-top:4px}.section-head.compact{align-items:flex-end}.slider-controls{display:none}
  .treatment-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px;scrollbar-width:none}.treatment-track::-webkit-scrollbar{display:none}
- .treatment-card{flex:0 0 43%;scroll-snap-align:start}.treatment-card img{height:80px}
+ .treatment-card{flex:0 0 43%;scroll-snap-align:start}.treatment-card img{height:120px}
  .advantage-grid{display:block}.clinic-image img{height:190px}.advantage-copy{padding:25px 20px}.advantage-copy h2{font-size:23px}.advantage-copy p{font-size:10px}
  .advantage-points{display:grid;grid-template-columns:repeat(3,1fr);padding:15px 0}.advantage-points div{padding:4px 7px}.advantage-points strong{font-size:8px}.advantage-points small{font-size:7px}
  .story-grid{display:grid;grid-template-columns:1fr;gap:14px}.story-copy{grid-row:auto}.story-copy h2{font-size:23px}.before-after img{height:165px}blockquote{min-height:165px;padding:17px}.quote-mark{font-size:30px}blockquote p{font-size:11px}
